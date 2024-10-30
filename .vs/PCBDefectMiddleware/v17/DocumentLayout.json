@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Middleware(MES--ChangFai)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52C93F33-30C8-4968-BAEE-3710308D9222}|OPCTestting\\PCBDefectMiddleware.csproj|c:\\users\\sip-yctan\\onedrive - sip technology (m) sdn bhd\\documents\\github\\middleware(mes--changfai)\\opctestting\\temporarydatabase\\pcbdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C93F33-30C8-4968-BAEE-3710308D9222}|OPCTestting\\PCBDefectMiddleware.csproj|solutionrelative:opctestting\\temporarydatabase\\pcbdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C93F33-30C8-4968-BAEE-3710308D9222}|OPCTestting\\PCBDefectMiddleware.csproj|c:\\users\\sip-yctan\\onedrive - sip technology (m) sdn bhd\\documents\\github\\middleware(mes--changfai)\\opctestting\\mybackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C93F33-30C8-4968-BAEE-3710308D9222}|OPCTestting\\PCBDefectMiddleware.csproj|solutionrelative:opctestting\\mybackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C93F33-30C8-4968-BAEE-3710308D9222}|OPCTestting\\PCBDefectMiddleware.csproj|c:\\users\\sip-yctan\\onedrive - sip technology (m) sdn bhd\\documents\\github\\middleware(mes--changfai)\\opctestting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C93F33-30C8-4968-BAEE-3710308D9222}|OPCTestting\\PCBDefectMiddleware.csproj|solutionrelative:opctestting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C93F33-30C8-4968-BAEE-3710308D9222}|OPCTestting\\PCBDefectMiddleware.csproj|c:\\users\\sip-yctan\\onedrive - sip technology (m) sdn bhd\\documents\\github\\middleware(mes--changfai)\\opctestting\\service\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C93F33-30C8-4968-BAEE-3710308D9222}|OPCTestting\\PCBDefectMiddleware.csproj|solutionrelative:opctestting\\service\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C93F33-30C8-4968-BAEE-3710308D9222}|OPCTestting\\PCBDefectMiddleware.csproj|c:\\users\\sip-yctan\\onedrive - sip technology (m) sdn bhd\\documents\\github\\middleware(mes--changfai)\\opctestting\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C93F33-30C8-4968-BAEE-3710308D9222}|OPCTestting\\PCBDefectMiddleware.csproj|solutionrelative:opctestting\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C93F33-30C8-4968-BAEE-3710308D9222}|OPCTestting\\PCBDefectMiddleware.csproj|c:\\users\\sip-yctan\\onedrive - sip technology (m) sdn bhd\\documents\\github\\middleware(mes--changfai)\\opctestting\\model\\pcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C93F33-30C8-4968-BAEE-3710308D9222}|OPCTestting\\PCBDefectMiddleware.csproj|solutionrelative:opctestting\\model\\pcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C93F33-30C8-4968-BAEE-3710308D9222}|OPCTestting\\PCBDefectMiddleware.csproj|c:\\users\\sip-yctan\\onedrive - sip technology (m) sdn bhd\\documents\\github\\middleware(mes--changfai)\\opctestting\\controller\\meshttprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C93F33-30C8-4968-BAEE-3710308D9222}|OPCTestting\\PCBDefectMiddleware.csproj|solutionrelative:opctestting\\controller\\meshttprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C93F33-30C8-4968-BAEE-3710308D9222}|OPCTestting\\PCBDefectMiddleware.csproj|c:\\users\\sip-yctan\\onedrive - sip technology (m) sdn bhd\\documents\\github\\middleware(mes--changfai)\\opctestting\\controller\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C93F33-30C8-4968-BAEE-3710308D9222}|OPCTestting\\PCBDefectMiddleware.csproj|solutionrelative:opctestting\\controller\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C93F33-30C8-4968-BAEE-3710308D9222}|OPCTestting\\PCBDefectMiddleware.csproj|c:\\users\\sip-yctan\\onedrive - sip technology (m) sdn bhd\\documents\\github\\middleware(mes--changfai)\\opctestting\\model\\pcbmobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C93F33-30C8-4968-BAEE-3710308D9222}|OPCTestting\\PCBDefectMiddleware.csproj|solutionrelative:opctestting\\model\\pcbmobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C93F33-30C8-4968-BAEE-3710308D9222}|OPCTestting\\PCBDefectMiddleware.csproj|c:\\users\\sip-yctan\\onedrive - sip technology (m) sdn bhd\\documents\\github\\middleware(mes--changfai)\\opctestting\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{52C93F33-30C8-4968-BAEE-3710308D9222}|OPCTestting\\PCBDefectMiddleware.csproj|solutionrelative:opctestting\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C93F33-30C8-4968-BAEE-3710308D9222}|OPCTestting\\PCBDefectMiddleware.csproj|c:\\users\\sip-yctan\\onedrive - sip technology (m) sdn bhd\\documents\\github\\middleware(mes--changfai)\\opctestting\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52C93F33-30C8-4968-BAEE-3710308D9222}|OPCTestting\\PCBDefectMiddleware.csproj|solutionrelative:opctestting\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 299,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Middleware(MES--ChangFai)\\OPCTestting\\service\\Startup.cs",
+              "RelativeDocumentMoniker": "OPCTestting\\service\\Startup.cs",
+              "ToolTip": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Middleware(MES--ChangFai)\\OPCTestting\\service\\Startup.cs",
+              "RelativeToolTip": "OPCTestting\\service\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:40:32.774Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Middleware(MES--ChangFai)\\OPCTestting\\Logger.cs",
+              "RelativeDocumentMoniker": "OPCTestting\\Logger.cs",
+              "ToolTip": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Middleware(MES--ChangFai)\\OPCTestting\\Logger.cs",
+              "RelativeToolTip": "OPCTestting\\Logger.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBUAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T02:15:40.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pcb.cs",
+              "DocumentMoniker": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Middleware(MES--ChangFai)\\OPCTestting\\model\\Pcb.cs",
+              "RelativeDocumentMoniker": "OPCTestting\\model\\Pcb.cs",
+              "ToolTip": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Middleware(MES--ChangFai)\\OPCTestting\\model\\Pcb.cs",
+              "RelativeToolTip": "OPCTestting\\model\\Pcb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:16:41.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MESHttpRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Middleware(MES--ChangFai)\\OPCTestting\\controller\\MESHttpRequest.cs",
+              "RelativeDocumentMoniker": "OPCTestting\\controller\\MESHttpRequest.cs",
+              "ToolTip": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Middleware(MES--ChangFai)\\OPCTestting\\controller\\MESHttpRequest.cs",
+              "RelativeToolTip": "OPCTestting\\controller\\MESHttpRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:43:33.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Middleware(MES--ChangFai)\\OPCTestting\\controller\\ApiController.cs",
+              "RelativeDocumentMoniker": "OPCTestting\\controller\\ApiController.cs",
+              "ToolTip": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Middleware(MES--ChangFai)\\OPCTestting\\controller\\ApiController.cs",
+              "RelativeToolTip": "OPCTestting\\controller\\ApiController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAASwCgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:13:20.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PcbMobile.cs",
+              "DocumentMoniker": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Middleware(MES--ChangFai)\\OPCTestting\\model\\PcbMobile.cs",
+              "RelativeDocumentMoniker": "OPCTestting\\model\\PcbMobile.cs",
+              "ToolTip": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Middleware(MES--ChangFai)\\OPCTestting\\model\\PcbMobile.cs",
+              "RelativeToolTip": "OPCTestting\\model\\PcbMobile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:44:49.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PCBData.cs",
+              "DocumentMoniker": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Middleware(MES--ChangFai)\\OPCTestting\\TemporaryDatabase\\PCBData.cs",
+              "RelativeDocumentMoniker": "OPCTestting\\TemporaryDatabase\\PCBData.cs",
+              "ToolTip": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Middleware(MES--ChangFai)\\OPCTestting\\TemporaryDatabase\\PCBData.cs",
+              "RelativeToolTip": "OPCTestting\\TemporaryDatabase\\PCBData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:36:26.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Middleware(MES--ChangFai)\\OPCTestting\\MyBackgroundService.cs",
+              "RelativeDocumentMoniker": "OPCTestting\\MyBackgroundService.cs",
+              "ToolTip": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Middleware(MES--ChangFai)\\OPCTestting\\MyBackgroundService.cs",
+              "RelativeToolTip": "OPCTestting\\MyBackgroundService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:44:29.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Middleware(MES--ChangFai)\\OPCTestting\\Program.cs",
+              "RelativeDocumentMoniker": "OPCTestting\\Program.cs",
+              "ToolTip": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Middleware(MES--ChangFai)\\OPCTestting\\Program.cs",
+              "RelativeToolTip": "OPCTestting\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:34:06.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 59,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Middleware(MES--ChangFai)\\OPCTestting\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "OPCTestting\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Middleware(MES--ChangFai)\\OPCTestting\\Properties\\Resources.resx",
+              "RelativeToolTip": "OPCTestting\\Properties\\Resources.resx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-29T03:08:47.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Middleware(MES--ChangFai)\\OPCTestting\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OPCTestting\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\SiP-YCTan\\OneDrive - SIP Technology (M) Sdn Bhd\\Documents\\GitHub\\Middleware(MES--ChangFai)\\OPCTestting\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OPCTestting\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwBIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T10:33:33.647Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

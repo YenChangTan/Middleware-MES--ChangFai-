@@ -1,0 +1,7 @@
+C:\Users\SiP-YCTan\OneDrive - SIP Technology (M) Sdn Bhd\Documents\GitHub\OPCTestting\OPCTestting\obj\Debug\net5.0\OPCTestting.csproj.AssemblyReference.cache
+C:\Users\SiP-YCTan\OneDrive - SIP Technology (M) Sdn Bhd\Documents\GitHub\OPCTestting\OPCTestting\obj\Debug\net5.0\OPCTestting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SiP-YCTan\OneDrive - SIP Technology (M) Sdn Bhd\Documents\GitHub\OPCTestting\OPCTestting\obj\Debug\net5.0\OPCTestting.AssemblyInfoInputs.cache
+C:\Users\SiP-YCTan\OneDrive - SIP Technology (M) Sdn Bhd\Documents\GitHub\OPCTestting\OPCTestting\obj\Debug\net5.0\OPCTestting.AssemblyInfo.cs
+C:\Users\SiP-YCTan\OneDrive - SIP Technology (M) Sdn Bhd\Documents\GitHub\OPCTestting\OPCTestting\obj\Debug\net5.0\OPCTestting.csproj.CoreCompileInputs.cache
+C:\Users\SiP-YCTan\OneDrive - SIP Technology (M) Sdn Bhd\Documents\GitHub\OPCTestting\OPCTestting\obj\Debug\net5.0\OPCTestting.Properties.Resources.resources
+C:\Users\SiP-YCTan\OneDrive - SIP Technology (M) Sdn Bhd\Documents\GitHub\OPCTestting\OPCTestting\obj\Debug\net5.0\OPCTestting.csproj.GenerateResource.cache
